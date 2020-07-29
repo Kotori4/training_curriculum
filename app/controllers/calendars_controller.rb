@@ -40,10 +40,3 @@ class CalendarsController < ApplicationController
   end
 end
 
-
-
-
-
-# ("{dw[date.wday]})")
-# dw = ["日", "月", "火", "水", "木", "金", "土"]
-# p date.strftime("%Y/%m/%d(#{dw[date.wday]})")
